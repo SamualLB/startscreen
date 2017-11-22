@@ -1,0 +1,55 @@
+/* Set Color Variables */
+:root {
+    --relish-dark:     #7ac70c;
+    --relish-light:    #8ee000;
+    --mustard-dark:    #faa918;
+    --mustard-light:   #ffc715;
+    --ketchup-dark:    #d33131;
+    --ketchup-light:   #e53838;
+    --raspberry-dark:  #1cb0f6;
+    --raspberry-light: #14d4f4;
+    --jelly-dark:      #8549ba;
+    --jelly-light:     #a560e8;
+    --licorice-dark:   #4c4c4c;
+    --licorice-light:  #6f6f6f;
+    --cloud-dark:      #cfcfcf;
+    --cloud-light:     #f0f0f0;
+    --mint:            #bff199;
+    --cotton-candy:    #f7c8c9;
+}
+/* Set class colors */
+/* Text */
+.fg-relish-dark{color:var(--relish-dark);}
+.fg-relish-light{color:var(--relish-light);}
+.fg-mustard-dark{color:var(--mustard-dark);}
+.fg-mustard-light{color:var(--mustard-light);}
+.fg-ketchup-dark{color:var(--ketchup-dark);}
+.fg-ketchup-light{color:var(--ketchup-light);}
+.fg-raspberry-dark{color:var(--raspberry-dark);}
+.fg-raspberry-light{color:var(--raspberry-light);}
+.fg-jelly-dark{color:var(--jelly-dark);}
+.fg-jelly-light{color:var(--jelly-light);}
+.fg-licorice-dark{color:var(--licorice-dark);}
+.fg-licorice-light{color:var(--licorice-light);}
+.fg-cloud-dark{color:var(--cloud-dark);}
+.fg-cloud-light{color:var(--cloud-light);}
+.fg-mint{color:var(--mint);}
+.fg-cotton-candy{color:var(--cotton-candy);}
+
+/* Background */
+.bg-relish-dark{background-color:var(--relish-dark);}
+.bg-relish-light{background-color:var:(--relish-light);}
+.bg-mustard-dark{background-color:var(--mustard-dark);}
+.bg-mustard-light{background-color:var(--mustard-light);}
+.bg-ketchup-dark{background-color:var(--ketchup-dark);}
+.bg-ketchup-light{background-color:var(--ketchup-light);}
+.bg-raspberry-dark{background-color:var(--raspberry-dark);}
+.bg-raspberry-light{background-color:var(--raspberry-light);}
+.bg-jelly-dark{background-color:var(--jelly-dark);}
+.bg-jelly-light{background-color:var(--jelly-light);}
+.bg-licorice-dark{background-color:var(--licorice-dark);}
+.bg-licorice-light{background-color:var(--licorice-light);}
+.bg-cloud-dark{background-color:var(--cloud-dark);}
+.bg-cloud-light{background-color:var(--cloud-light);}
+.bg-mint{background-color:var(--mint);}
+.bg-cotton-candy{background-color:var(--cotton-candy);}
