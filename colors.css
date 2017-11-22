@@ -38,7 +38,7 @@
 
 /* Background */
 .bg-relish-dark{background-color:var(--relish-dark);}
-.bg-relish-light{background-color:var:(--relish-light);}
+.bg-relish-light{background-color:var(--relish-light);}
 .bg-mustard-dark{background-color:var(--mustard-dark);}
 .bg-mustard-light{background-color:var(--mustard-light);}
 .bg-ketchup-dark{background-color:var(--ketchup-dark);}
